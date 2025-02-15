@@ -3,7 +3,7 @@
 log_directory=$1
 archive_dir="/archive_logs"
 timestamp=$(date +%Y%m%d_%H%M%S)
-archive_name=$(log_archive_${timestamp}.tar.gz)
+archive_name="log_archive_${timestamp}.tar.gz"
 
 if [ -z $1 ]; then
     echo "Please provide the log directory"
