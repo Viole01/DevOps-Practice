@@ -14,3 +14,10 @@ For example,
 ```sh
 ./log-archive /var/log
 ```
+# Nginx Log Analyzer
+https://roadmap.sh/projects/nginx-log-analyser
+
+Please run [``nginx-log-analyzer``](nginx-log-analyzer.sh) with the log file as an argument to the script. For example,
+```sh
+./nginx-log-analyzer.sh nginx-access.log
+```
