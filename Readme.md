@@ -25,3 +25,8 @@ For example,
 ```sh
 ./nginx-log-analyzer.sh nginx-access.log
 ```
+
+## SSH Remote Server Setup
+https://roadmap.sh/projects/ssh-remote-server-setup
+
+Please read the [``SSH-remote-server-setup``](SSH-remote-server-setup.md).
